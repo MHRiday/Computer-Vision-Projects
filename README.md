@@ -19,3 +19,4 @@ Each of application area of computer vision consists of a range of computer visi
 
 ## Computer Vision Project
 1. [Aerial Cactus Image Identification](Aerial%20Cactus%20Image%20Identification)
+2. [Chest X-Ray Image Classification](Chest%20X-Ray%20Image%20Classification)
